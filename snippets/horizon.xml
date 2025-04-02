@@ -31,6 +31,7 @@
   <!-- Packages -->
   <project path="packages/apps/HorizonLab" name="packages_apps_HorizonLab" remote="HorizonDroid" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" groups="pdk-fs" remote="HorizonDroid" />
+  <project path="packages/apps/Launcher3" name="packages_apps_Launcher3" remote="HorizonDroid" />
 
   <!-- System -->
   <project path="system/core" name="system_core" groups="pdk" remote="HorizonDroid" />
