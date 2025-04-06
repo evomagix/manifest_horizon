@@ -10,7 +10,7 @@
            revision="refs/heads/fifteen" />
   
     <!-- Rootdir -->
-  <project path="manifest" name="manifest_horizon" remote="HorizonDroid" />
+  <project path="manifest" name="manifest_horizon" remote="evo" />
   <project path="horizon-maintainers" name="horizon-maintainers" remote="HorizonDroid" />
 
   <!-- Build -->
